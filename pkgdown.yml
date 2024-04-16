@@ -1,0 +1,11 @@
+pandoc: 3.1.11
+pkgdown: 2.0.8
+pkgdown_sha: ~
+articles:
+  example: example.html
+  mortality-adjustments: mortality-adjustments.html
+last_built: 2024-04-16T22:03Z
+urls:
+  reference: https://msdllcpapers.github.io/psm3mkv/reference
+  article: https://msdllcpapers.github.io/psm3mkv/articles
+
